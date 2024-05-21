@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prakhar Kulshrestha</h1>
+<h3 align="center">A passionate FullStack Django Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kulshrestha227@gmail.com
 
 # 💫 About Me:
-I'm currently working on a ecommerce website <br>I'm a Full stack django developer
+I'm currently working on a ecommerce website 
 
 
 # 💻 Tech Stack:
