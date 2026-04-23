@@ -54,7 +54,7 @@ I build end-to-end web applications using **Django** and **Node.js** on the back
  
 | Project | Description | Stack |
 |---|---|---|
-| [**Nivass-Find your Perfect Space in India**]([[https://github.com/Prakhoo3012/AceHack2.o-TeamInitials](https://github.com/Prakhoo3012/Nivaas-Find-your-Perfect-Space-in-India)](https://github.com/Prakhoo3012/Nivaas-Find-your-Perfect-Space-in-India)) | A MERN-stack platform to discover and list rental spaces across India. | React, Nodejs, Express, MongoDb |
+| [**Nivass-Find your Perfect Space in India**](https://github.com/Prakhoo3012/Nivaas-Find-your-Perfect-Space-in-India) | A MERN-stack platform to discover and list rental spaces across India. | React, Nodejs, Express, MongoDb |
 | [**Nike Store**](https://github.com/Prakhoo3012/nike-store) | Fully designed Nike storefront with responsive UI and clean product layouts | HTML, CSS |
 | [**Student Portal**]([https://github.com/Prakhoo3012/AceHack2.o-TeamInitials](https://github.com/Prakhoo3012/AceHack2.o-TeamInitials)) | Hackathon project — complete web solution built under time pressure as part of a team | HTML, CSS |
 | [**Loan Approval Predictor**](https://github.com/Prakhoo3012/loan-approval-prediction) | ML model to predict loan outcomes — data preprocessing, feature engineering, classification | Python, Jupyter |
