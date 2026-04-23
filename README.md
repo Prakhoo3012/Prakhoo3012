@@ -8,11 +8,11 @@
  
 I build end-to-end web applications using **Django** and **Node.js** on the backend, **React** on the frontend, and everything in between — databases, REST APIs, and real-time systems. Early in the journey, shipping fast.
  
-- 🔭 Currently building an **ecommerce platform** — Django REST + React
+- 🔭 Currently building an **Real Time Chat App** — Node + Socket.io + React
 - 🌱 Currently learning **WebRTC & real-time app architecture** (sockets, streams, peer connections)
-- 🔍 Exploring **GraphQL** and **TypeScript** across the full stack
+- 🔍 Exploring **Next.js** and **TypeScript** across the full stack
 - 💬 Ask me about **Django, Node.js, React, REST APIs, Frontend Development**
-- 📫 Reach me at **kulshrestha227@gmail.com**
+- 📫 Reach me at **prakharkulshrestha7@gmail.com**
 - 🌍 Based in **India**
 ---
  
@@ -25,7 +25,7 @@ I build end-to-end web applications using **Django** and **Node.js** on the back
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
  
 **Frontend**
  
@@ -54,9 +54,10 @@ I build end-to-end web applications using **Django** and **Node.js** on the back
  
 | Project | Description | Stack |
 |---|---|---|
+| [**Nivass-Find your Perfect Space in India**]([[https://github.com/Prakhoo3012/AceHack2.o-TeamInitials](https://github.com/Prakhoo3012/Nivaas-Find-your-Perfect-Space-in-India)](https://github.com/Prakhoo3012/Nivaas-Find-your-Perfect-Space-in-India)) | A MERN-stack platform to discover and list rental spaces across India. | React, Nodejs, Express, MongoDb |
 | [**Nike Store**](https://github.com/Prakhoo3012/nike-store) | Fully designed Nike storefront with responsive UI and clean product layouts | HTML, CSS |
+| [**Student Portal**]([https://github.com/Prakhoo3012/AceHack2.o-TeamInitials](https://github.com/Prakhoo3012/AceHack2.o-TeamInitials)) | Hackathon project — complete web solution built under time pressure as part of a team | HTML, CSS |
 | [**Loan Approval Predictor**](https://github.com/Prakhoo3012/loan-approval-prediction) | ML model to predict loan outcomes — data preprocessing, feature engineering, classification | Python, Jupyter |
-| [**AceHack 2.0**](https://github.com/Prakhoo3012/AceHack2.o-TeamInitials) | Hackathon project — complete web solution built under time pressure as part of a team | HTML, CSS |
 | [**JECRC ML Notebooks**](https://github.com/Prakhoo3012/JECRC_MachineLearning-) | Hands-on ML coursework covering core algorithms and model evaluation | Python, Jupyter |
 | [**Travel**](https://github.com/Prakhoo3012/Travel) | Travel-themed web project with clean layout and frontend design | HTML, CSS |
 | [**Recipes**](https://github.com/Prakhoo3012/Recipes) | Recipe listing app with structured content and responsive design | HTML, CSS |
